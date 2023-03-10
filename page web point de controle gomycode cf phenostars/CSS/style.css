@@ -1,0 +1,13 @@
+body{
+    font-family: "source code pro", calibri,serif,
+    margin-right: 0px;
+    padding-right:0px;
+}
+nav > ul{
+    margin-right: 0px;
+    padding-right:0px;
+}
+
+nav > ul > li{
+    floot: left;
+}
